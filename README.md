@@ -16,3 +16,5 @@ This repository contains the code, data, and documentation for my master's thesi
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/thesis-repo.git
+
+NOTE: I have added .py and .ipynb for the reader's convenience.
