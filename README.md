@@ -7,11 +7,9 @@ This repository contains the code, data, and documentation for my master's thesi
 
 ## Contents
 
-- **Code**: Implementations of string-based and embedding-based entity linking approaches.
-- **Data**: Datasets used in the research, including `data_snapshot.csv`, which contains 20 label examples with 'uri', 'pref_label', and 'alt_label'.
-- **Model**: Training scripts for the entity linking models.
-- **Evaluation**: Custom evaluation metrics for measuring model performance.
-- **Documentation**: Detailed explanations of the methodology, experimental setup, and results.
+- **Data Snapshot**: Datasets used in the research, including `data_snapshot.csv`, which contains 20 label examples with 'uri', 'pref_label', and 'alt_label'.
+- **Model code**: Training notebooks for the models, BERT and NLLB.
+- **Evaluation Algorithm**: Custom evaluation metrics for measuring model performance.
 
 ## How to Use
 
