@@ -1,4 +1,7 @@
 # Master's Thesis Repository
+**Title**: A Cross-Lingual Named Entity Linking Approach for Material Science Knowledge Graph Enrichment  
+**by**: Jiveshwari Chinchghare  
+**Master's in Computer Science, Paderborn University**
 
 This repository contains the code, data, and documentation for my master's thesis on enhancing multilingual named-entity linking in material science.
 
